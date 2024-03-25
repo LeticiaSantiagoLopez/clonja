@@ -11,7 +11,7 @@ Este es un proyecto de la interfaz nosotros de Junior Achievement Argentina, cre
 **CSS3:** Para el diseño y estilo 
 
 ### Vista previa del proyecto.
-p
+![Demo](/imágenes/JA_Screen.png)
 
 ### Licencia.
 Distribuido bajo la licencia MIT. consulte `lICENSE` para obtener más información.
