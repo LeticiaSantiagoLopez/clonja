@@ -8,6 +8,7 @@ Este es un proyecto de la interfaz nosotros de Junior Achievement Argentina, cre
 
 ### Tecnologías utilizadas.
 **HTML5:** Para la estructura básica del sitio.
+
 **CSS3:** Para el diseño y estilo 
 
 ### Vista previa del proyecto.
